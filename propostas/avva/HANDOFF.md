@@ -51,7 +51,7 @@ Para regerar: `./scripts/build.sh` (defina `CHROME=/caminho/do/chrome` se precis
 
 1. **Selos originais** na página 3 (hoje são círculos provisórios em `build/overlay.html`). No Drive: `usda-organic-hd.png`, `ibd-organic-hd.png`, `kosher-bka-hd.png`, `halal-fambras-hd.png` (pasta de selos criada em 28/09). Tirar fundo se precisar.
 2. **Confirmar nome do Halal:** o arquivo é da FAMBRAS; no texto está "Sul Halal".
-3. **Fotos em alta** da pasta do Drive **"10 ENSAYO FER · alta (set-oct 2026)"** (DSC_6045, DSC_6047, DSC_6054, DSC_6129, DSC_6162, DSC_6174, DSC_6222, DSC_6266, DSC_6276, DSC_6302, DSC04800, DSC04872, DSC04909, DSC04917, DSC04974, DSC04978, DSC05017, DSC05024).
+3. **Fotos em alta** da pasta indicada pelo Fred: https://drive.google.com/drive/folders/14rcQ68t4Batk8hmEh4eR0RdtQMZxidFL (DSC05017, DSC_6047, DSC_6043, DSC05021, DSC04956 e outras; logos também ficam na pasta do Fred). Mesmo ensaio da pasta **"10 ENSAYO FER · alta (set-oct 2026)"** (DSC_6045, DSC_6047, DSC_6054, DSC_6129, DSC_6162, DSC_6174, DSC_6222, DSC_6266, DSC_6276, DSC_6302, DSC04800, DSC04872, DSC04909, DSC04917, DSC04974, DSC04978, DSC05017, DSC05024).
 4. **Nenhuma foto repetida.** Manter a foto da capa (cacho). Trocar a foto da página 3 do dossiê, que repete a capa.
 5. **Foto do freezer** em que apareçam bem as caixas e os potes de dentro.
 6. Seguir o padrão visual da **apresentação do Café Cultura** (não encontrada no Drive pela busca; pedir o caminho ao Fred).
